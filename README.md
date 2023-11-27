@@ -8,15 +8,13 @@
 
 - 🔭 I’m currently working on **Expense Tracer Project in Python**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and Java**
 
-- 👯 I’m looking to collaborate on **Python Projects**
-
-- 🤝 I’m looking for help with **Flutter Projects**
+- 👯 I’m looking to collaborate on **Flutter Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sabin6969?tab=repositories](https://github.com/sabin6969?tab=repositories)
 
-- 💬 Ask me about **Python,SQL**
+- 💬 Ask me about **Python,SQL,Dart**
 
 - 📫 How to reach me **sabinpoudel6969@gmail.com**
 
