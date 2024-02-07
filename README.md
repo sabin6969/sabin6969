@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabin Poudel</h1>
 <h3 align="center">A passionate learner from Nepal</h3>
 
-- 🌱 I’m currently learning **Flutter, JS, Node JS**
+- 🌱 I’m currently learning **Flutter, JS, Node Js**
 
 - 👯 I’m looking to collaborate on **Flutter**
 
